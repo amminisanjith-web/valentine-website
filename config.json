@@ -1,7 +1,7 @@
 {
   "names": {
-    "sender": "YOUR NAME",
-    "receiver": "YOUR PARTNER'S NAME"
+    "sender": "sanjith",
+    "receiver": "jubi"
   },
   "theme": {
     "primaryColor": "#ff7ab2",
@@ -47,15 +47,15 @@
   "couplePhotos": [
     {
       "image": "/src/assets/couple_photo/couple_photo_1.jpg",
-      "caption": "Our first special moment together"
+      "caption": "❤️‍🩹🫂"
     },
     {
       "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
-      "caption": "Cooking memories together"
+      "caption": "😘🫂"
     },
     {
       "image": "/src/assets/couple_photo/couple_photo_3.jpg",
-      "caption": "Our favorite music moments"
+      "caption": "us🫂💋"
     },
     {
       "image": "/src/assets/couple_photo/couple_photo_4.jpg",
@@ -73,7 +73,7 @@
   "prosCons": [
     {
       "gif": "/src/assets/cook-bear.gif",
-      "text": "I'll cook your fav food like it's my love language 🍳"
+      "text": "💗"
     },
     {
       "gif": "/src/assets/comfort-bear.gif", 
@@ -99,58 +99,58 @@
   "songs": [
     {
       "id": 1,
-      "title": "Oru Maalai",
-      "duration": "3:37",
-      "album": "Ghajini",
+      "title": "aromal",
+      "duration": "3:38",
+      "album": "sita ramam",
       "artist": "",
       "cover": "/src/assets/album-covers/ghajini.jpg",
       "audio": "/src/assets/songs/Oru-Maalai.mp3"
     },
     {
       "id": 2,
-      "title": "Agasatha",
-      "duration": "4:59", 
-      "album": "Cuckoo",
+      "title": "punchiri thanjum",
+      "duration": "4:35", 
+      "album": "sankar",
       "artist": "",
       "cover": "/src/assets/album-covers/cuckoo.jpg",
       "audio": "/src/assets/songs/agasatha.mp3"
     },
     {
       "id": 3,
-      "title": "Unakagathanae",
-      "duration": "04:51",
-      "album": "Katradhu Tamizh",
+      "title": "Kattu Mooliyo",
+      "duration": "03:52",
+      "album": "Ohm Shanthi Oshaana",
       "artist": "",
       "cover": "/src/assets/album-covers/katradhu-tamizh.jpg",
       "audio": "/src/assets/songs/unakagathanae.mp3"
     },
     {
       "id": 4,
-      "title": "Aasa Orave",
-      "duration": "3:45",
-      "album": "Lubber Panthu",
+      "title": "neeyen vennila ",
+      "duration": "4:33",
+      "album": "Cousins",
       "artist": "",
       "cover": "/src/assets/album-covers/aasa_orave.jpg",
       "audio": "/src/assets/songs/Aasa-Orave.mp3"
     },
     {
       "id": 5,
-      "title": "Kadhal Kanave",
-      "duration": "4:08",
-      "album": "Mundasupatti",
+      "title": "Zaalima",
+      "duration": "2:52",
+      "album": "Raees",
       "artist": "",
       "cover": "/src/assets/album-covers/mundasupatti.jpg",
       "audio": "/src/assets/songs/kadhal-kanave.mp3"
     }
   ],
   "letter": {
-    "title": "My Dearest Patootie,",
+    "title": "My Dearest elsamme❤️‍🩹,",
     "content": [
-      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
-      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
-      "You are my favorite part of every moment, and the best thing that ever happened to me."
+      "You're my best friend. The person I can tell all my secrets to, the first person I want to talk to when I wake up, and last person I want to talk to before I drift off to sleep.",
+      "When something good happens to me, you're the first person I tell. When I'm troubled by something, you're the one I go to for comfort and support.",
+      "But you're so much more than that. You're the love of my life. You're my friend, my lover, my comfort, and my strength. I am so lucky to have you."
     ],
-    "signature": "Forever yours,\nRam"
+    "signature": "Forever yours, sanjith"
   },
   "navigation": {
     "backToLove": "Back to Love",
@@ -165,4 +165,5 @@
     "play": "Play",
     "pause": "Pause"
   }
+
 }
